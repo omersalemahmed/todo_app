@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177515155886",
+    "project_id": "todo-app-fecca",
+    "storage_bucket": "todo-app-fecca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177515155886:android:f3471101d44e2e4b9a783f",
+        "android_client_info": {
+          "package_name": "com.example.Todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177515155886-fbpet5bd8hjqkkldc79238b0g6prgcog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVoqIopzTjA5_VG2fYR1Vqk_nev7t_2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177515155886-fbpet5bd8hjqkkldc79238b0g6prgcog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
